@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense-Analyser/static/css/main.fb37a1e6.css",
+    "main.js": "/Expense-Analyser/static/js/main.98d1dba2.js",
+    "index.html": "/Expense-Analyser/index.html",
+    "main.fb37a1e6.css.map": "/Expense-Analyser/static/css/main.fb37a1e6.css.map",
+    "main.98d1dba2.js.map": "/Expense-Analyser/static/js/main.98d1dba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb37a1e6.css",
+    "static/js/main.98d1dba2.js"
+  ]
+}
